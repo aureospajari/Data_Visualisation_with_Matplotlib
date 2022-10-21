@@ -11,3 +11,4 @@ Here we see how to grab some raw data and create some interesting charts using P
   <li>Styled our charts by changing the size, the labels, and the upper and lower bounds of our axis.</li>
   <li>Added a legend to tell apart which line is which by colour</li>
   <li>Smoothed out our time-series observations with .rolling().mean() and plotted them to better identify trends over time.</li>
+</ul>
